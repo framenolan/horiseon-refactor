@@ -1,5 +1,7 @@
 # horiseon-refactor
 
+Deployed page: https://framenolan.github.io/horiseon-refactor/
+
 Changed title to Horiseon
 
 Converted header/footer classes to semantic header/footer
