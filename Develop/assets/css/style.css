@@ -25,7 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header article {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +33,11 @@ header article {
     font-size: 20px;
 }
 
-header article ul {
+header div ul {
     list-style-type: none;
 }
 
-header article ul li {
+header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
